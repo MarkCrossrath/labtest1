@@ -1,6 +1,12 @@
+//class call
+
+Connections con;
+//array list
+ArrayList<Connections> cons = new ArrayList<Connections>(); 
+
 void setup()
 {
-  size(800, 800);
+  size(800, 700);
   loadData();
   listData();
 }
@@ -8,16 +14,22 @@ void setup()
 void loadData()
 {
   Table table = loadTable("HabHYG15ly.csv", "header");
-  //Table table2 = loadTable("Connections.txt","header");
+  Table table2 = loadTable("Connections.txt","header");
   for(TableRow row:table.rows())
   {
     Star star = new Star(row);    
     stars.add(star);
   }
   
- // for(TableRow row:table2.rows());
- // {
- // }
+  for(TableRow row:table2.rows())
+ {
+   
+      Connections con = new Connections();
+      cons. add(con);
+       
+       
+       
+  }
 }
 
 void listData()
