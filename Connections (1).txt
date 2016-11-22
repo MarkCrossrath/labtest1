@@ -1,0 +1,117 @@
+From, To
+Sol,Gl 447
+Sol,Luyten's Star
+Sol,Proxima Centauri
+Sol,Rigel Kentaurus B
+Proxima Centauri,Sol
+Proxima Centauri,Barnard's Star
+Rigel Kentaurus B,Sol
+Rigel Kentaurus B,Barnard's Star
+Rigel Kentaurus A,Sol
+Rigel Kentaurus A,Barnard's Star
+Barnard's Star,Gl 729
+Barnard's Star,Rigel Kentaurus B
+Gl 406,Gl 447
+Gl 406,DX Cancri
+Lalande 21185,Gl 406
+Lalande 21185,DX Cancri
+UV Ceti A,52 Tau Ceti
+UV Ceti A,Lacaille 9352
+UV Ceti B,52 Tau Ceti
+UV Ceti B,Lacaille 9352
+Gl 244 B,Gl 280 B
+Gl 244 B,Procyon
+Sirius,Gl 280 B
+Sirius,Procyon
+Gl 729,Barnard's Star
+Gl 729,Lacaille 8760
+Gl 905,GQ Andromedae
+Gl 905,GX Andromedae
+18 Epsilon Eridani,Hip 15689
+18 Epsilon Eridani,UV Ceti B
+Gl 447,Sol
+Gl 447,Luyten's Star
+Gl 447,Gl 406
+Gl 447,FL Virginis A
+Lacaille 9352,Gl 1
+Lacaille 9352,Epsilon Indi
+EZ Aquarii,Lacaille 9352
+EZ Aquarii,Hip 114110
+Gl 280 B,Luyten's Star
+Gl 280 B,V577 Monocerotis B
+Procyon,Luyten's Star
+Procyon,V577 Monocerotis B
+Gl 725 B,Gl 687
+Gl 725 B,Krüger 60
+61 Cygni A,DO Cephei
+61 Cygni A,Krüger 60
+61 Cygni B,DO Cephei
+61 Cygni B,Krüger 60
+GQ Andromedae,Gl 905
+GQ Andromedae,DO Cephei
+DX Cancri,Gl 280 B
+DX Cancri,Procyon
+GX Andromedae,Gl 905
+GX Andromedae,DO Cephei
+52 Tau Ceti,UV Ceti A
+52 Tau Ceti,UV Ceti B
+Gl 725,Gl 687
+Gl 725,Krüger 60
+Epsilon Indi,Lacaille 8760
+Epsilon Indi,Gl 1
+Luyten's Star,Sol
+Luyten's Star,Gl 447
+Luyten's Star,Gl 280 B
+Luyten's Star,Procyon
+Kapteyn's Star,GJ 1061
+Kapteyn's Star,Sirius
+Lacaille 8760,Gl 674
+Lacaille 8760,BD-12°4523
+Lacaille 8760,Epsilon Indi
+Lacaille 8760,EZ Aquarii
+DO Cephei,Gl 905
+DO Cephei,GQ Andromedae
+Krüger 60,Gl 905
+Krüger 60,GQ Andromedae
+V577 Monocerotis B,Luyten's Star
+V577 Monocerotis B,Procyon
+V577 Monocerotis A,Luyten's Star
+V577 Monocerotis A,Procyon
+GJ 1061,Kapteyn's Star
+GJ 1061,Hip 15689
+FL Virginis A,Gl 447
+FL Virginis A,NN 3622
+FL Virginis B,Gl 447
+FL Virginis B,NN 3622
+Gl 563.2B,BD-12°4523
+Gl 563.2B,Gl 674
+BD-12°4523,Gl 674
+BD-12°4523,Gl 447
+BD-12°4523,Gl 563.2B
+BD-12°4523,Gl 563.2
+Gl 1,Lacaille 9352
+Gl 1,Hip 114110
+Van Maanen's Star,Gl 83.1
+Van Maanen's Star,UV Ceti B
+Hip 15689,18 Epsilon Eridani
+Hip 15689,52 Tau Ceti
+Gl 83.1,Van Maanen's Star
+Gl 83.1,Hip 15689
+NN 3522,DX Cancri
+NN 3522,Procyon
+Innes' Star,Gl 440
+Innes' Star,Rigel Kentaurus A
+NN 3622,Gl 447
+NN 3622,FL Virginis A
+Gl 563.2,BD-12°4523
+Gl 563.2,Gl 674
+Gl 674,BD-12°4523
+Gl 674,Gl 447
+Gl 674,Gl 729
+Gl 674,BD-12°4523
+Gl 687,Gl 725
+Gl 687,DO Cephei
+Gl 440,Innes' Star
+Gl 440,Rigel Kentaurus A
+Hip 114110,EZ Aquarii
+Hip 114110,Gl 1

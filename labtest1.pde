@@ -8,11 +8,16 @@ void setup()
 void loadData()
 {
   Table table = loadTable("HabHYG15ly.csv", "header");
+  //Table table2 = loadTable("Connections.txt","header");
   for(TableRow row:table.rows())
   {
     Star star = new Star(row);    
     stars.add(star);
   }
+  
+ // for(TableRow row:table2.rows());
+ // {
+ // }
 }
 
 void listData()
