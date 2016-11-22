@@ -7,8 +7,8 @@ class Connections
  Connections(TableRow row)
  {
    
-   From = row.getString("From");
-   To = row.getString("To");
+   From = row.getString(0);
+   To = row.getString(1);
    
    
  }

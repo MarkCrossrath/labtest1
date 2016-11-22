@@ -1,6 +1,6 @@
 //class call
 
-Connections con;
+
 //array list
 ArrayList<Connections> cons = new ArrayList<Connections>(); 
 
@@ -14,7 +14,7 @@ void setup()
 void loadData()
 {
   Table table = loadTable("HabHYG15ly.csv", "header");
-  Table table2 = loadTable("Connections.txt","header");
+  Table table2 = loadTable("Connections.csv");
   for(TableRow row:table.rows())
   {
     Star star = new Star(row);    
@@ -24,11 +24,9 @@ void loadData()
   for(TableRow row:table2.rows())
  {
    
-      Connections con = new Connections();
+      Connections con = new Connections(row);
       cons. add(con);
-       
-       
-       
+     
   }
 }
 
@@ -38,8 +36,8 @@ void listData()
   {
     println(star);
   }
-}
 
+}
 void drawGrid()
 {
   fill(255, 0, 255);
@@ -84,6 +82,7 @@ void drawStars()
 float border = 50; 
 ArrayList<Star> stars = new ArrayList<Star>(); 
 
+
 int selected1 = -1;
 int selected2 = -1;
 
@@ -119,6 +118,7 @@ void draw()
   drawGrid();
   drawStars();
   
+  
   // If I have selected one of the stars
   if (selected1 != -1 && selected2 == -1)
   {
@@ -138,6 +138,16 @@ void draw()
   }
   
   // If I have selected both of the stars
+ for (int j =0; j<cons.size();j++)
+ {
+   for( int i =0; i<stars.size();i++)
+   {
+     
+   }
+   
+ }
+  
+  
   
   
 }
